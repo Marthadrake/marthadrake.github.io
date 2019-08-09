@@ -1,0 +1,13 @@
+.time-image{
+  background-image: url("https://www.uyplifestyle.com/wp-content/uploads/2016/05/time-machine-1.jpg");
+  background-size: cover;
+  min-height: 50vh;
+  min-width: 50vw;
+}
+.name{
+  background-color: black;
+  background:cover;
+}
+.col-one{
+  padding-top: 50%;
+}
