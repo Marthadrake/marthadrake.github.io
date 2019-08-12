@@ -21,9 +21,9 @@
   background-color: rgb(72, 40, 153)
 }
 .row-two{
+  font-style: italic;
   background-size: cover;
   background: rgb(36, 25, 7);
   min-height: 20vh;
   min-width: 100vw;
-
 }
